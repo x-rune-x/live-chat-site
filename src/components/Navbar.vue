@@ -26,7 +26,6 @@ export default {
 
     return { handleClick, user }
   }
-
 }
 </script>
 
