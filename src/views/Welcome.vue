@@ -64,5 +64,6 @@ export default {
   }
   .welcome button {
     margin: 20px auto;
+    cursor: pointer;
   }
 </style>

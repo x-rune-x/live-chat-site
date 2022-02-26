@@ -46,4 +46,7 @@ export default {
     font-size: 14px;
     color: #999;
   }
+  nav button {
+    cursor: pointer;
+  }
 </style>
